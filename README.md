@@ -3,6 +3,7 @@
 >基于 golang 实现的泛型数组,支持动态扩容等特性。
 
 [![Build Status](https://www.travis-ci.org/JeffreyBool/array.svg?branch=master)](https://www.travis-ci.org/JeffreyBool/array)
+[![Build Status](https://scrutinizer-ci.com/g/JeffreyBool/array/badges/build.png?b=master)](https://scrutinizer-ci.com/g/JeffreyBool/array/build-status/master)
 
 ## 项目结构
 ``` 
