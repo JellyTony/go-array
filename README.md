@@ -2,6 +2,8 @@
 
 >基于 golang 实现的泛型数组,支持动态扩容等特性。
 
+[![Build Status](https://www.travis-ci.org/JeffreyBool/array.svg?branch=master)](https://www.travis-ci.org/JeffreyBool/array)
+
 ## 项目结构
 ``` 
 .
