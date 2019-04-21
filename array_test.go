@@ -9,7 +9,7 @@ package array_test
 
 import (
 	"testing"
-	"array"
+	"github.com/JeffreyBool/array"
 )
 
 //测试实例化

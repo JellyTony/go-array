@@ -8,7 +8,7 @@
 package array_test
 
 import (
-	"array"
+	"github.com/JeffreyBool/array"
 	"fmt"
 	"log"
 )
