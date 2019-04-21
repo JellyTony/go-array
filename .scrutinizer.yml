@@ -1,0 +1,5 @@
+build:
+  environment:
+    go:
+      version: 'go1.9.2'
+      go_import_path: 'github.com/JeffreyBool/array'
