@@ -1,5 +1,14 @@
+checks:
+  go: true
 build:
   environment:
     go:
       version: 'go1.9.2'
       go_import_path: 'github.com/JeffreyBool/array'
+  nodes:
+    analysis:
+      tests:
+        override:
+            - govet-run
+            - golint-run
+            - go-scrutinizer-run
