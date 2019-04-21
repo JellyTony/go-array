@@ -8,7 +8,7 @@
 package array_test
 
 import (
-	"algo/array"
+	"array"
 	"fmt"
 	"log"
 )

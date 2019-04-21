@@ -9,7 +9,7 @@ package array_test
 
 import (
 	"testing"
-	"algo/array"
+	"array"
 )
 
 //测试实例化
