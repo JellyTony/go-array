@@ -1,3 +1,10 @@
+notifications:
+  email:
+    recipients:
+    - 1402992668@qq.com
+    on_success: change
+    on_failure: always
+
 language: go
 
 go:
